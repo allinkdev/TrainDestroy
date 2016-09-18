@@ -52,3 +52,23 @@ Unless You explicitly state otherwise, any Contribution intentionally submitted 
 
 ##### 4. Disclaimer of Warranty #####
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+#### Other Notes ####
+Commercial Usage
+
+Commercial usage or any form of sale of this project is strictly forbidden. You may not sell the software as a project, compiled jar (where applicable) / link to the project using any form of adfly links or similar where you will gain profit from users clicking the links. All link backs should be using a service that will not gain you any profits (Like Pravius, google or the full and direct link).
+
+Distribution
+
+You may distribute any plugins in any way you feel fit (Providing they comply with the commercial usage regulations). You are however not permitted to remove any sort of credits from within the software and are required to give appropriate credit when using the source code within your own projects. This includes but is not limited to:
+
+- Alco_Rs11
+We also require you link users back to our official releases. These can be found at the following template: https://github.com/EXPLODINGTNT001/Project-Name/releases Failing to link users to the official releases is in strict violation of this license and appropriate action will be taken. Any sources that you use require to be clearly labeled as ours and that you have used our source code within your project. This includes listing any contributors of the original file, and linking back to the project you found the source, and then a link to the projects releases.
+
+License Waived
+
+This license and any other sub-licenses for the project may be waived at the discretion of the Superior Development project lead (Currently Ryan Wild). No other developers have the ability to waive this or other licenses to individuals or businesses. We may also choose to waive certain parts of the license and this is again at the discretion of the project lead at Superior Development. A full list of waived individuals / businesses will be listed below including the extent to the license being waived.
+
+Waived Users:
+
+At the current time there are no individuals or businesses that the 
