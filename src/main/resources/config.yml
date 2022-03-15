@@ -1,0 +1,12 @@
+##Alco_TrainDestroy v1.0 by Alco_Rs11 & Business-Goose Configuration file ##
+
+#Worlds
+    #List all worlds you want TrainDestroy to purge minecarts in. (Select up to 12 worlds)
+    #Replace [] with your worldnames.
+worlds:
+  - world
+  - world_nether
+  - world_the_end
+   
+   
+#End of Configuration File

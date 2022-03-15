@@ -3,3 +3,4 @@ author: Alco_Rs11
 main: traindestroy.TrainDestroy
 version: 1.0
 description: Every Hour Minecart Purge.
+api-version: "1.18"
